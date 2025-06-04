@@ -1,0 +1,17 @@
+{
+  "name": "ide-codex-version",
+  "version": "1.0.0",
+  "description": "TEsting to create an IDE via Codex",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "code-server": "^4.100.3"
+  }
+}
